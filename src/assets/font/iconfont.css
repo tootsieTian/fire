@@ -1,0 +1,28 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1602309856728'); /* IE9 */
+  src: url('iconfont.eot?t=1602309856728#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAARIAAsAAAAACHgAAAP8AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqEWIN8ATYCJAMMCwgABCAFhG0HQBtMB8gOJR2JwMDgEQJCBF9rn/1m5u8RsebypyAoo2IEsEqEPhWd8mAUW6DykTv/7+mnyyDc0bjpOqUnzWQ/QWke5C9dHE4bS3C+1XaZa2DUBRgHFNie2BaJCyQgbzmceRUeXacJtJpkgnHmFxKDCCrIpEDcZzEzEcGUUampDM1CVbKyiNdIQ3N6yXMF4pX//fjHKgRJGhmZeX7PNwfx+In+vETr/j9w20UgovHsENeRsQ5RiLulzitomFyHatWVvPWFlSKksSL/a3yhoa5W+sdLRIUo2wG7nEr8RG0awc94owToPL5CC97hP8L271DJC/qyMsJC7e3TlR3yIyvycF+9a0HcOxFHrujtM9tGG9MvYs9SluPTc1t0hmRlh7I6KV0qctlwWG54uFNBYZS8g0L9hPwEN477NGTohNL4ssLwYePjdKrouY9mE4vG8Zt0J2UYuz6vuOVOUscFg5gtpuOUr9j5TyrbzeI2LiXsu1V/237vzbobcUtb6rZ2bq/fln/mDpinfM/T2gvcOIqKvXMnhhvsQ9Owk7pJIciDNx0bDMY110+0jTj1hg/p27TIwc46ocjd4nHws1rlaJjqA70YlF3f8HdSO+Ggv3OczqjC+0qrHf0PkOEbv593z7mc0fYQmvBQPmHK8LLRxhhsyVOvrwr3bCv8kGTkLzKm4KTdE9394ZYSYFt/2TJlxZUYnUuxSPxck9K1szdKO5vNmO3cWVD02THJ4sKE3ju9kpoFmTVPXQsVSWf/C+h1z075e0D9xNa0rSdOHE07arLG/mb1bdtmUd85D/Dn5yNERhL4+PvbxiXxlJYykhiJpWVJHo/XMRJh59JSvj+roeCyRqhxrHSrTql0rLy/f0RchFMrHytdqtMqHWtcXHo5FBghGcjY/CG9RdRUfoAa//bf+N7n/DpdwuVXc1sB31bxp76/pop2bkTzS3EFP1nUsqUYEmLKRRPaQiuUPfMj7QngS1Y19vZ63F890DpOaE6JREiaTEDWbB5ZsOvQ0GYfKs0OodUa//Vt+hBQUVqwqhlB6LYdkk7vIet2FVmwj6Bh0CeodAcKrS5CZsc2i8ES9iZgJglzQFY5YGXjRRizkMJBZRRkFhdkEkmJT4yDBIcVAZZmFtmMPyyCxBhzOCVMK5LEAEbghcAPnQcLCnDAJvA8mE2a5ZIk28ncHCt7kVk2XogIO0WAMpGgHECWcgBLNlwRzO1MEs59PgrEVKxAJqKmqc4dByJwsHoHLJmxaIH0Vxa1arqWSzhKMFkhkTAAhoArBPghO1RAkziAXT4sD5SNZCa3R5zNiTluh7VVms2vLny+XdCKNOZIkaNoOfUZpiTkkMLleBEzt7iQ5RoQBA==') format('woff2'),
+  url('iconfont.woff?t=1602309856728') format('woff'),
+  url('iconfont.ttf?t=1602309856728') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1602309856728#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-icon-test:before {
+	/* 电话 */
+  content: "\e603"; 
+	
+}
+
+.icon-yonghuming:before {
+	/* 用户名 */
+  content: "\e657";
+}
+
